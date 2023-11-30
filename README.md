@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @hbtjr1275
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+hbtjr1275/hbtjr1275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi , Im @hbtjr1275 im new but i learn quick. Im interested in termux CLI on Android as well as linux CLI, Ethnical hacking / penetration testing. 
+Im currently working on cyber security and python with termux.
+I can be contacted at jmdthbt75@gmail.com
